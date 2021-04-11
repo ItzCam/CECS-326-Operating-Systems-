@@ -1,4 +1,4 @@
-# CECS-326 Operating Systems
+# Fall 2020 Operating Systems
 CECS - 326 
 Prof. Hailu Xu
 
