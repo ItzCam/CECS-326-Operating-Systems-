@@ -1,4 +1,4 @@
-# CECS-326
+# CECS-326 Operating Systems
 CECS - 326 
 Prof. Hailu Xu
 
